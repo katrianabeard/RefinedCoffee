@@ -1,1 +1,2 @@
 # RefinedCoffee
+<title>RefinedCoffee</title>
